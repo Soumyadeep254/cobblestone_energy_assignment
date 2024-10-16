@@ -3,6 +3,8 @@
 ## Project Description
 
 This project focuses on developing a Python script capable of detecting anomalies in a continuous data stream. The data stream simulates real-time sequences of floating-point numbers, which could represent metrics such as financial transactions or system performance metrics. The primary objective is to identify unusual patterns such as spikes, deviations from the norm, and seasonal drifts, all in real-time.
+## Project Demo Link:
+https://drive.google.com/file/d/1Oq5LhGarHTHxtsWLOHpXNhPifbm5ClPe/view?usp=drive_link
 
 The key features of the project include:
 

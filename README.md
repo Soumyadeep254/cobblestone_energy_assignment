@@ -1,0 +1,1 @@
+# cobblestone_energy_assignment

@@ -1,0 +1,5 @@
+numpy
+matplotlib
+tensorflow
+yfinance
+PyQt5
